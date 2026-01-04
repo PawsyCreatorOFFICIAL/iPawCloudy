@@ -42,4 +42,5 @@ Solo
 
 👤 Autor
 Creado por Pawsy
+
 Proyecto personal / educativo / experimental.
