@@ -1,4 +1,5 @@
 🐾 iPawCloudy
+
 iPawCloudy es un proyecto experimental en Python que combina una IA básica, un modo terminal interactivo y un sistema de almacenamiento tipo cloud.
 Está pensado para aprender cómo funcionan estos sistemas desde dentro, construyéndolos paso a paso con código simple y entendible.
 No intenta ser un iCloud real ni una IA poderosa.
